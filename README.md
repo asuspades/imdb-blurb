@@ -76,8 +76,4 @@ Output (`list_with_descriptions.txt`):
 
 ## License
 
-MIT License © Your Name
-
----
-
-Feel free to contribute improvements or open issues if you encounter any problems.
+MIT License © MacRae Vallery
